@@ -1,0 +1,8 @@
+2026-05-14 09:22:03,375 | INFO | Processing 6 records | dry_run=True
+2026-05-14 09:26:07,864 | INFO | Processing 6 records | dry_run=True
+2026-05-14 09:26:07,866 | WARNING | [LEGAL FLAG] INV-2024-001 | 389 days overdue — assigned to finance manager
+2026-05-14 09:26:07,869 | WARNING | [LEGAL FLAG] INV-2024-002 | 394 days overdue — assigned to finance manager
+2026-05-14 09:26:07,895 | WARNING | [LEGAL FLAG] INV-2024-003 | 401 days overdue — assigned to finance manager
+2026-05-14 09:26:07,895 | WARNING | [LEGAL FLAG] INV-2024-004 | 408 days overdue — assigned to finance manager
+2026-05-14 09:26:07,895 | WARNING | [LEGAL FLAG] INV-2024-005 | 412 days overdue — assigned to finance manager
+2026-05-14 09:26:07,895 | WARNING | [LEGAL FLAG] INV-2024-006 | 369 days overdue — assigned to finance manager

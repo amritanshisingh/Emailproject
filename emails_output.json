@@ -1,0 +1,50 @@
+[
+  {
+    "invoice": "INV-2024-001",
+    "client": "Rajesh Kapoor",
+    "days_overdue": 6,
+    "stage": 1,
+    "subject": "Gentle reminder: Invoice INV-2024-001",
+    "body": "Hi Rajesh,\n\nI hope you’re having a great week!\n\nI’m reaching out with a quick note regarding invoice INV-2024-001 for Rs. 45000, which was due on 08-05-2026. It looks like it might have slipped through the cracks as it's now 6 days overdue. \n\nIf you could do me a small favor and look into this when you have a moment, I would really appreciate it. It helps us keep our records tidy! You can settle the payment directly here: https://pay.example.com/INV-2024-001\n\nThank you so much for your help!\n\nBest regards,\n[Your Name]",
+    "status": "DRY_RUN"
+  },
+  {
+    "invoice": "INV-2024-002",
+    "client": "Priya Sharma",
+    "days_overdue": 10,
+    "stage": 2,
+    "subject": "Follow-up: Overdue Payment for Invoice INV-2024-002",
+    "body": "Dear Ms. Sharma,\n\nI am writing regarding invoice INV-2024-002 for Rs. 12000, which was due on 04-05-2026. Our records show that this payment is now 10 days overdue.\n\nWe request that you settle the outstanding balance immediately via this link: https://pay.example.com/INV-2024-002. While we appreciate your business, it is important that we keep accounts current.\n\nIf the payment has already been sent, please disregard this email. Otherwise, please reply today to confirm the exact date we can expect to receive the funds.\n\nRegards,\n\nAccounts Department",
+    "status": "DRY_RUN"
+  },
+  {
+    "invoice": "INV-2024-003",
+    "client": "Amit Verma",
+    "days_overdue": 16,
+    "stage": 3,
+    "subject": "URGENT: Formal Notice of Overdue Payment - INV-2024-003",
+    "body": "Dear Mr. Verma,\n\nThis is a formal notice regarding invoice INV-2024-003 for Rs. 78500, which is now 16 days overdue from the due date of 28-04-2026. \n\nDespite previous reminders, the balance remains unpaid. Please be advised that this matter is now being escalated. We require you to provide a response or proof of payment within the next 48 hours to avoid further action.\n\nYou can settle the outstanding amount immediately via this link: https://pay.example.com/INV-2024-003\n\nWe expect your immediate attention to this serious matter.\n\nRegards,\n\nAccounts Department",
+    "status": "DRY_RUN"
+  },
+  {
+    "invoice": "INV-2024-004",
+    "client": "Sunita Mehta",
+    "days_overdue": 408,
+    "stage": "LEGAL FLAG",
+    "status": "Needs human review - no email sent"
+  },
+  {
+    "invoice": "INV-2024-005",
+    "client": "Rohit Gupta",
+    "days_overdue": 412,
+    "stage": "LEGAL FLAG",
+    "status": "Needs human review - no email sent"
+  },
+  {
+    "invoice": "INV-2024-006",
+    "client": "Neha Joshi",
+    "days_overdue": 369,
+    "stage": "LEGAL FLAG",
+    "status": "Needs human review - no email sent"
+  }
+]

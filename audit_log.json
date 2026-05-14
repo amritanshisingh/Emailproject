@@ -1,0 +1,56 @@
+[
+  {
+    "time": "2026-05-14 11:28:42.550708",
+    "invoice_no": "INV-2024-001",
+    "client": "Rajesh Kapoor",
+    "days_overdue": 6,
+    "stage": 1,
+    "subject": "Gentle reminder: Invoice INV-2024-001",
+    "status": "DRY_RUN"
+  },
+  {
+    "time": "2026-05-14 11:29:03.938047",
+    "invoice_no": "INV-2024-002",
+    "client": "Priya Sharma",
+    "days_overdue": 10,
+    "stage": 2,
+    "subject": "Follow-up: Overdue Payment for Invoice INV-2024-002",
+    "status": "DRY_RUN"
+  },
+  {
+    "time": "2026-05-14 11:29:24.122789",
+    "invoice_no": "INV-2024-003",
+    "client": "Amit Verma",
+    "days_overdue": 16,
+    "stage": 3,
+    "subject": "URGENT: Formal Notice of Overdue Payment - INV-2024-003",
+    "status": "DRY_RUN"
+  },
+  {
+    "time": "2026-05-14 11:29:39.127695",
+    "invoice_no": "INV-2024-004",
+    "client": "Sunita Mehta",
+    "days_overdue": 408,
+    "stage": "LEGAL",
+    "subject": "No email - flagged for legal",
+    "status": "FLAGGED"
+  },
+  {
+    "time": "2026-05-14 11:29:39.127695",
+    "invoice_no": "INV-2024-005",
+    "client": "Rohit Gupta",
+    "days_overdue": 412,
+    "stage": "LEGAL",
+    "subject": "No email - flagged for legal",
+    "status": "FLAGGED"
+  },
+  {
+    "time": "2026-05-14 11:29:39.128728",
+    "invoice_no": "INV-2024-006",
+    "client": "Neha Joshi",
+    "days_overdue": 369,
+    "stage": "LEGAL",
+    "subject": "No email - flagged for legal",
+    "status": "FLAGGED"
+  }
+]
