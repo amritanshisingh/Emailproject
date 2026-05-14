@@ -245,5 +245,5 @@ SMTP_PASSWORD=your_app_password
 
 ---
 
-## 👤 Author
+##  Author
 Amritanshi Singh · AI Enablement Internship · Task 2
